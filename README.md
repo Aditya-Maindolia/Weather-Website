@@ -9,7 +9,7 @@ weather condition, wind speed and humidity of a specific location/region. It use
 of OpenWeather to fetch the data and display it on the website. The website is interactive with 
 background changing according to weather in the location/region searched.
 
-# Methodology
+# Languages Used
 <b>HTML</b>: HTML stands for Hyper Text Markup Language and is used for defining the 
 structure of any website using series of tags and attributes to define layout and elements of the 
 page. The HTML documents are rendered by web browser to display it’s content. Thus it is the 
@@ -22,3 +22,10 @@ making it easier to update and maintain.</br>
 this is done using Java Script. This programming language is used for adding interactivity and 
 dynamic features to a website. It is a scripting language that runs on the client’s browser and 
 allows to update the content of a webpage.
+
+# Fetching Data
+OpenWeather is a web application which provides features such as weather 
+forecast and helps by providing API for developers to fetch data from its servers and database 
+to implement on their projects. This Project also fetches all the required data such as Current 
+Weather Condition, Wind Speed, Humidity for a specific region and the fetched data is then 
+displayed in Website.
