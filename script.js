@@ -1,5 +1,5 @@
 let weather = {
-    apikey: "c4aa23ba82aaabadedd0ebef66c7e0e6",
+    apikey: "API KEY FROM OpenWeather WILL COME HERE",
     fetchWeather: function(city){
         if(city=='India' || city =='india'){
             city = 'Republic Of India';
