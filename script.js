@@ -38,34 +38,3 @@ document.querySelector(".search-bar").addEventListener("keyup", function(event){
         weather.search();
     }
 });
-
-
-/*let s=0;
-carousel(s);
-
-function prevreview(){
-    s=s-1;
-    carousel(s);
-}
- 
-function nextreview(){
-    s=s+1;
-    carousel(s);
-}
-
-function carousel(slides){
-    let slide = document.getElementsByClassName("slide_bar");
-
-    if(slides>=slide.length){
-        slides=0;
-        s=0;
-    }
-    if(slides<0){
-        slides=slide.length-1;
-        s=slide.length-1;
-    }
-    for(let i=0;i<slide.length;i++){
-        slide[i].style.display="none";
-    }
-    slide[slides].style.display="block";
-}*/
